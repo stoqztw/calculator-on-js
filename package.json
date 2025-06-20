@@ -1,0 +1,31 @@
+{
+  "name": "calculator-on-js",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoqztw/calculator-on-js.git"
+  },
+  "keywords": [
+    "calculator",
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "stowztw (Artem)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoqztw/calculator-on-js/issues"
+  },
+  "homepage": "https://github.com/stoqztw/calculator-on-js#readme",
+  "description": "",
+  "dependencies": {
+    "postcss": "^8.5.6",
+    "postcss-pxtorem": "^6.1.0",
+    "sass": "^1.89.2",
+    "vite": "^6.3.5"
+  }
+}
