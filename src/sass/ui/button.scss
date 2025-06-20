@@ -1,0 +1,24 @@
+@use "/src/sass/base/variables.scss" as *;
+
+.btn {
+	display: block;
+	width: 77px;
+	height: 77px;
+    font-size: 30px;
+    font-weight: 500;
+    border-radius: 20px;
+    border: none;
+    background-color: $btn-color;
+
+    &-long {
+        width: 160px;
+    }
+
+    &-action {
+        background-color: $btn-action;
+    }
+
+    &-operator {
+        background-color: $btn-operator;
+    }
+}

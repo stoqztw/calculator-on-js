@@ -8,12 +8,11 @@ export default defineConfig({
     build: {
         rollupOptions: {
             input: {
-                main: resolve(__dirname, 'index.html'),
-                catalog: resolve(__dirname, 'catalog.html')
+                main: resolve(__dirname, 'index.html')
             },
         },
     },
     server: {
-        port: 5174,
+        port: 7777,
     },
 });
