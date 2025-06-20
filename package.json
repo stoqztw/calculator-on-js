@@ -27,5 +27,8 @@
     "postcss-pxtorem": "^6.1.0",
     "sass": "^1.89.2",
     "vite": "^6.3.5"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
